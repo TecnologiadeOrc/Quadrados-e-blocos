@@ -1,0 +1,151 @@
+.container
+{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: 10px;
+  }
+  
+.bota1
+{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+  }
+
+.bota2
+{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+  }
+
+.bota3
+{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+  }
+
+.bota4
+{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+  } 
+
+.bota5
+{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+  }
+
+.bota6
+{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+  }
+
+.bota7
+{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+  }
+
+.bota8
+{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+  }  
+
+.bota9
+{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+  }
+
+.bota10
+{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+  }
+
+.bota11
+{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+  }
+
+.bota12
+{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+  }  
+
+.bota13
+{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+  }
+
+.bota14
+{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+  }
+
+.bota15
+{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+  }
+
+.bota16
+{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+  }

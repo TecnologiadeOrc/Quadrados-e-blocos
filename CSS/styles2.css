@@ -1,0 +1,14 @@
+.botão
+{
+    width: 25%; 
+    height: 25%;
+    border: 10px solid pink;
+    box-sizing: border-box; 
+}
+.container
+{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: 10px;
+}
